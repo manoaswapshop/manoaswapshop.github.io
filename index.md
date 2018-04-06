@@ -23,4 +23,4 @@ We want to provide UHM students and faculty with a simple application that allow
 
 Upon arrival at the website, the user will see the following landing page.
 
-![.].(images/UHSwapShop_Landing_MockUp.png)
+![.](images/UHSwapShop_Landing_MockUp.png)
