@@ -1,2 +1,2 @@
 # manoaswapshop.github.io
-Home page for the Manoa Swap Shop
+This repository contains the documentation for The Manoa Swap Shop.
