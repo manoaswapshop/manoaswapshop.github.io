@@ -39,10 +39,9 @@ http://themanoaswapshop.meteorapp.com/#/
 http://themanoaswapshop.meteorapp.com/#/about
 ![.](images/swapshopabout_galaxy.png)
 ![.](images/LogInPageMockUp.png)
-![.]()
-![.]()
-![.]()
-![.]()
+![.](images/UserProfilePageMockUp.png)
+![.](images/EditUserProfileMockUp.png)
+
 
 # Milestone 2
 
