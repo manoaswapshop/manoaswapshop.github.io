@@ -50,7 +50,7 @@ Upon arrival at the website, the user will see the following landing page.
 
 
 # Milestone 2
-
+Click [here](https://github.com/manoaswapshop/swapshop_source/projects/2) to see a list of Milestone 2 issues and goals.
 * Item Category Pages
 * Item Listing Creation
 * Linked Item Cards
