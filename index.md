@@ -38,7 +38,7 @@ http://themanoaswapshop.meteorapp.com/#/
 ![.](images/swapshoplanding_galaxy.png)
 http://themanoaswapshop.meteorapp.com/#/about
 ![.](images/swapshopabout_galaxy.png)
-![.]()
+![.](images/LogInPageMockUp.png)
 ![.]()
 ![.]()
 ![.]()
