@@ -32,3 +32,20 @@ Upon arrival at the website, the user will see the following landing page.
 * Login and SignUp Page
 * User profile page
 * User Home Page
+https://github.com/manoaswapshop/swapshop_source/projects/1
+
+http://themanoaswapshop.meteorapp.com/#/
+![.](images/swapshoplanding_galaxy.png)
+http://themanoaswapshop.meteorapp.com/#/about
+![.](images/swapshopabout_galaxy.png)
+![.]()
+![.]()
+![.]()
+![.]()
+![.]()
+
+# Milestone 2
+
+* Item Category Pages
+* Item Listing Creation
+* Linked Item Cards
