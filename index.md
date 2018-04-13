@@ -33,19 +33,19 @@ Upon arrival at the website, the user will see the following landing page.
 * User profile page
 * User Home Page
 
-GitHub Organization Link: https://github.com/manoaswapshop
+[GitHub Organization Link](https://github.com/manoaswapshop)
+ 
+[GitHub Milestone Project Link](https://github.com/manoaswapshop/swapshop_source/projects/1)
 
-GitHub Milestone Project Link: https://github.com/manoaswapshop/swapshop_source/projects/1
-
-http://themanoaswapshop.meteorapp.com/#/
+[Landing Page MockUp](http://themanoaswapshop.meteorapp.com/#/)
 ![.](images/swapshoplanding_galaxy.png)
-http://themanoaswapshop.meteorapp.com/#/about
+[About Page MockUp](http://themanoaswapshop.meteorapp.com/#/about)
 ![.](images/swapshopabout_galaxy.png)
-http://themanoaswapshop.meteorapp.com/#/
+[User Home Page MockUp](http://themanoaswapshop.meteorapp.com/#/)
 ![.](images/LogInPageMockUp.png)
-http://themanoaswapshop.meteorapp.com/#/userprofile
+[User Profile MockUp](http://themanoaswapshop.meteorapp.com/#/userprofile)
 ![.](images/UserProfilePageMockUp.png)
-http://themanoaswapshop.meteorapp.com/#/editprofile
+[Edit User Profile MockUp](http://themanoaswapshop.meteorapp.com/#/editprofile)
 ![.](images/EditUserProfileMockUp.png)
 
 
