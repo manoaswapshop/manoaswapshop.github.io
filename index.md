@@ -32,14 +32,20 @@ Upon arrival at the website, the user will see the following landing page.
 * Login and SignUp Page
 * User profile page
 * User Home Page
-https://github.com/manoaswapshop/swapshop_source/projects/1
+
+GitHub Repository Link: https://github.com/manoaswapshop
+
+GitHub Source Code Link: https://github.com/manoaswapshop/swapshop_source/projects/1
 
 http://themanoaswapshop.meteorapp.com/#/
 ![.](images/swapshoplanding_galaxy.png)
 http://themanoaswapshop.meteorapp.com/#/about
 ![.](images/swapshopabout_galaxy.png)
+http://themanoaswapshop.meteorapp.com/#/
 ![.](images/LogInPageMockUp.png)
+http://themanoaswapshop.meteorapp.com/#/userprofile
 ![.](images/UserProfilePageMockUp.png)
+http://themanoaswapshop.meteorapp.com/#/editprofile
 ![.](images/EditUserProfileMockUp.png)
 
 
