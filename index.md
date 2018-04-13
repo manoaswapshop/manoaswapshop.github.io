@@ -55,3 +55,5 @@ http://themanoaswapshop.meteorapp.com/#/editprofile
 * Item Listing Creation
 * Linked Item Cards
 * Admin Tools
+* Setup User Collection for User Profile Pages
+* Edit Profile Functionality
