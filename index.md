@@ -54,3 +54,4 @@ http://themanoaswapshop.meteorapp.com/#/editprofile
 * Item Category Pages
 * Item Listing Creation
 * Linked Item Cards
+* Admin Tools
