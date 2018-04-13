@@ -36,7 +36,6 @@ Upon arrival at the website, the user will see the following landing page.
 GitHub Repository Link: https://github.com/manoaswapshop
 
 GitHub Source Code Link: https://github.com/manoaswapshop/swapshop_source/projects/1
-
 http://themanoaswapshop.meteorapp.com/#/
 ![.](images/swapshoplanding_galaxy.png)
 http://themanoaswapshop.meteorapp.com/#/about
