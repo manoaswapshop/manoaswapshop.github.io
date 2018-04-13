@@ -39,12 +39,16 @@ Upon arrival at the website, the user will see the following landing page.
 
 [Landing Page MockUp](http://themanoaswapshop.meteorapp.com/#/)
 ![.](images/swapshoplanding_galaxy.png)
+
 [About Page MockUp](http://themanoaswapshop.meteorapp.com/#/about)
 ![.](images/swapshopabout_galaxy.png)
+
 [User Home Page MockUp](http://themanoaswapshop.meteorapp.com/#/)
 ![.](images/LogInPageMockUp.png)
+
 [User Profile MockUp](http://themanoaswapshop.meteorapp.com/#/userprofile)
 ![.](images/UserProfilePageMockUp.png)
+
 [Edit User Profile MockUp](http://themanoaswapshop.meteorapp.com/#/editprofile)
 ![.](images/EditUserProfileMockUp.png)
 
