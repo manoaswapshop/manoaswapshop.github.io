@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [About The Manoa Swap Shop](#about-the-manoa-swap-shop)
+* [Installation Guide](#installation-guide)
 * [Development goals](#development-goals)
 * [User Guide](#user-guide)
 
