@@ -1,16 +1,19 @@
+*Click [here](https://github.com/manoaswapshop) to view our GitHub organization page.*
 # Table of Contents
 
 * [About The Manoa Swap Shop](#about-the-manoa-swap-shop)
 * [Installation Guide](#installation-guide)
 * [Development goals](#development-goals)
+* [Milestone 1](#milestone-1)
+
 
 # About The Manoa Swap Shop
 
 The Manoa Swap Shop is a Meteor application that provides a safe environment for University of Hawaii at Manoa students and faculty to exchange school related goods and services.
 
-# Installation Guide
+Click [here](http://themanoaswapshop.meteorapp.com/#/) to see the running deployment of our system hosted on Galaxy.
 
-*Before starting the installation process, make sure you have [GitHub Desktop](https://desktop.github.com/), IntelliJ, Meteor, and Node installed on your computer.*
+# Installation Guide
 
 1. Install [Meteor](https://www.meteor.com/install)
 2. Download a copy of [The Manoa Swap Shop](https://github.com/manoaswapshop/swapshop_source) from the GitHub page.  The repository is private so you will need to request for access from the authors.
@@ -41,37 +44,29 @@ We want to provide UHM students and faculty with a simple application that allow
 * Pre-designated meeting locations for student and faculty safety.
 
 
-# Page layout and design
-
-Upon arrival at the website, the user will see the following landing page.
-
-![.](images/UHSwapShop_Landing_MockUp.png)
-
 # MileStone 1
 
+Click [here](https://github.com/manoaswapshop/swapshop_source/projects/1) to see a list of Milestone 1 issues and goals.
 * Landing Page
 * About Page
 * Login and SignUp Page
 * User profile page
-* User Home Page
+* User Home Page 
 
-[GitHub Organization Link](https://github.com/manoaswapshop)
- 
-[GitHub Milestone Project Link](https://github.com/manoaswapshop/swapshop_source/projects/1)
-
-[Landing Page MockUp](http://themanoaswapshop.meteorapp.com/#/)
+Upon arriving at the website, the user will see the following
+[landing page.](http://themanoaswapshop.meteorapp.com/#/)
 ![.](images/swapshoplanding_galaxy.png)
 
-[About Page MockUp](http://themanoaswapshop.meteorapp.com/#/about)
+A brief description of our application can be found on the [about page.](http://themanoaswapshop.meteorapp.com/#/about)
 ![.](images/swapshopabout_galaxy.png)
 
-[User Home Page MockUp](http://themanoaswapshop.meteorapp.com/#/)
+When the user [signs in](http://themanoaswapshop.meteorapp.com/#/) to their account, additional options will appear in the navigation bar at the top of the page.
 ![.](images/LogInPageMockUp.png)
 
-[User Profile MockUp](http://themanoaswapshop.meteorapp.com/#/userprofile)
+The user may view [their profile](http://themanoaswapshop.meteorapp.com/#/userprofile) once they have logged into their account.  On this page, the user's contact information will be displayed along with a listing of their items.
 ![.](images/UserProfilePageMockUp.png)
 
-[Edit User Profile MockUp](http://themanoaswapshop.meteorapp.com/#/editprofile)
+The user may also choose to [edit their profile](http://themanoaswapshop.meteorapp.com/#/editprofile) should any of the information provided becomes outdated.
 ![.](images/EditUserProfileMockUp.png)
 
 
@@ -84,8 +79,6 @@ Click [here](https://github.com/manoaswapshop/swapshop_source/projects/2) to see
 * Setup User Collection for User Profile Pages
 * Create User Profile Page
 * Edit Profile Functionality
-
-
 
 1. To begin usage of the Manoa Swap Shop application, you must sign up for a new account. Immediately after you sign up, a User Profile Creation Page will pop up that will add your information into your user profile.
 ![.](images/M2UserProfileCreationPage.png)
@@ -101,3 +94,4 @@ Once you have filled out all of the required fields and submitted, the item that
 ![.](images/M2ListedItemsPage.png)
 In addition, all of the items that you yourself have listed will show up on your user profile page.
 ![.](images/M2UserProfileItemsList.png)
+
