@@ -60,4 +60,6 @@ Click [here](https://github.com/manoaswapshop/swapshop_source/projects/2) to see
 * Linked Item Cards
 * Admin Tools
 * Setup User Collection for User Profile Pages
+* Create User Profile Page
 * Edit Profile Functionality
+
