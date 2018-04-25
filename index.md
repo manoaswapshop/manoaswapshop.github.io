@@ -5,6 +5,7 @@
 * [Installation Guide](#installation-guide)
 * [Development goals](#development-goals)
 * [Milestone 1](#milestone-1)
+* [Milestone 2](#milestone-2)
 
 
 # About The Manoa Swap Shop
@@ -80,18 +81,19 @@ Click [here](https://github.com/manoaswapshop/swapshop_source/projects/2) to see
 * Create User Profile Page
 * Edit Profile Functionality
 
-1. To begin usage of the Manoa Swap Shop application, you must sign up for a new account. Immediately after you sign up, a User Profile Creation Page will pop up that will add your information into your user profile.
+1. To begin usage of the Manoa Swap Shop application, you must sign up for a new account. Immediately after you sign up, a [User Profile Creation Page](http://themanoaswapshop.meteorapp.com/#/create) will pop up that will add your information into your user profile.
 ![.](images/M2UserProfileCreationPage.png)
-Once you have submitted your information the User Profile page will update to show all the changes that were added.
+Once you have submitted your information the [User Profile](http://themanoaswapshop.meteorapp.com/#/userprofile) page will update to show all the changes that were added.
 ![.](images/M2UserProfilePage.png)
 2. Now you have your user profile set up! If you made any errors you can always fix anything in your user profile by clicking on the edit button in the User Profile Page. This edit button will take you to an Edit Profile Page where you can make changes to any of the previously submitted fields.
 ![.](images/M2EditProfilePage.png)
 After you submit your changes on the edit page your user profile page will update with these changes.
 ![.](images/M2EditedProfilePage.png)
-3. Onto the items part of the app. If you click on the "List an Item" in the nav bar it will take you to a page where you can create a new item listing. 
+3. Onto the items part of the app. If you click on the ["List an Item"](http://themanoaswapshop.meteorapp.com/#/add) in the nav bar it will take you to a page where you can create a new item listing.
 ![.](images/M2ListItemPage.png)
-Once you have filled out all of the required fields and submitted, the item that you have just listed will show up on the Listed Items page.
+Once you have filled out all of the required fields and submitted, the item that you have just listed will show up on the [Listed Items](http://themanoaswapshop.meteorapp.com/#/list) page.
 ![.](images/M2ListedItemsPage.png)
 In addition, all of the items that you yourself have listed will show up on your user profile page.
 ![.](images/M2UserProfileItemsList.png)
 
+# Community Feedback (coming soon)
