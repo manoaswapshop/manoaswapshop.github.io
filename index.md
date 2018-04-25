@@ -4,7 +4,7 @@
 * [About The Manoa Swap Shop](#about-the-manoa-swap-shop)
 * [Installation Guide](#installation-guide)
 * [Development goals](#development-goals)
-* [User Guide](#user-guide)
+* [Milestone 1](#milestone-1)
 
 # About The Manoa Swap Shop
 
@@ -73,4 +73,3 @@ Click [here](https://github.com/manoaswapshop/swapshop_source/projects/2) to see
 * Setup User Collection for User Profile Pages
 * Create User Profile Page
 * Edit Profile Functionality
-
