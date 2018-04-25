@@ -1,12 +1,29 @@
 # Table of Contents
 
 * [About The Manoa Swap Shop](#about-the-manoa-swap-shop)
+* [Installation Guide](#installation-guide)
 * [Development goals](#development-goals)
 
 # About The Manoa Swap Shop
 
 The Manoa Swap Shop is a Meteor application that provides a safe environment for University of Hawaii at Manoa students and faculty to exchange school related goods and services.
 
+# Installation Guide
+
+*Before starting the installation process, make sure you have [GitHub Desktop](https://desktop.github.com/), IntelliJ, Meteor, and Node installed on your computer.*
+
+1. Install [Meteor](https://www.meteor.com/install)
+2. Download a copy of [The Manoa Swap Shop](https://github.com/manoaswapshop/swapshop_source) from the GitHub page.  The repository is private so you will need to request for access from the authors.
+3. Open up a terminal on your operating system and cd into the app directory of digits.  Run the command:
+`$ meteor npm install`
+4. Once you have installed the libraries, run the command:
+`$ meteor npm run start`
+
+This will start the application, which you can see at [http://localhost:3000](http://localhost:3000/).
+
+Lastly, you can run ESLint over the code in the imports/ directory with:
+
+`$ meteor npm run lint`
 # Development goals
 
 We want to provide UHM students and faculty with a simple application that allows them to safely exchange goods.  We plan to implement:
