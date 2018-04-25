@@ -2,6 +2,7 @@
 
 * [About The Manoa Swap Shop](#about-the-manoa-swap-shop)
 * [Development goals](#development-goals)
+* [User Guide](#user-guide)
 
 # About The Manoa Swap Shop
 
@@ -18,6 +19,8 @@ We want to provide UHM students and faculty with a simple application that allow
 * A search function for users to search for goods
 * A listing feature for users to add their goods to the listing page
 * Pre-designated meeting locations for student and faculty safety.
+
+# User Guide
 
 # Page layout and design
 
