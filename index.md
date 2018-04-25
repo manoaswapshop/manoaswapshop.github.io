@@ -1,3 +1,4 @@
+*Click [here](https://github.com/manoaswapshop) to view our GitHub organization page.*
 # Table of Contents
 
 * [About The Manoa Swap Shop](#about-the-manoa-swap-shop)
@@ -37,41 +38,29 @@ We want to provide UHM students and faculty with a simple application that allow
 * A listing feature for users to add their goods to the listing page
 * Pre-designated meeting locations for student and faculty safety.
 
-# User Guide
-
-
-
-# Page layout and design
-
-Upon arrival at the website, the user will see the following landing page.
-
-![.](images/UHSwapShop_Landing_MockUp.png)
-
 # MileStone 1
 
+Click [here](https://github.com/manoaswapshop/swapshop_source/projects/1) to see a list of Milestone 1 issues and goals.
 * Landing Page
 * About Page
 * Login and SignUp Page
 * User profile page
-* User Home Page
+* User Home Page 
 
-[GitHub Organization Link](https://github.com/manoaswapshop)
- 
-[GitHub Milestone Project Link](https://github.com/manoaswapshop/swapshop_source/projects/1)
-
-[Landing Page MockUp](http://themanoaswapshop.meteorapp.com/#/)
+Upon arriving at the website, the user will see the following
+[landing page.](http://themanoaswapshop.meteorapp.com/#/)
 ![.](images/swapshoplanding_galaxy.png)
 
-[About Page MockUp](http://themanoaswapshop.meteorapp.com/#/about)
+A brief description of our application can be found on the [about page.](http://themanoaswapshop.meteorapp.com/#/about)
 ![.](images/swapshopabout_galaxy.png)
 
-[User Home Page MockUp](http://themanoaswapshop.meteorapp.com/#/)
+When the user [signs in](http://themanoaswapshop.meteorapp.com/#/) to their account, additional options will appear in the navigation bar at the top of the page.
 ![.](images/LogInPageMockUp.png)
 
-[User Profile MockUp](http://themanoaswapshop.meteorapp.com/#/userprofile)
+The user may view [their profile](http://themanoaswapshop.meteorapp.com/#/userprofile) once they have logged into their account.  On this page, the user's contact information will be displayed along with a listing of their items.
 ![.](images/UserProfilePageMockUp.png)
 
-[Edit User Profile MockUp](http://themanoaswapshop.meteorapp.com/#/editprofile)
+The user may also choose to [edit their profile](http://themanoaswapshop.meteorapp.com/#/editprofile) should any of the information provided becomes outdated.
 ![.](images/EditUserProfileMockUp.png)
 
 
