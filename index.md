@@ -18,7 +18,7 @@ Click [here](http://themanoaswapshop.meteorapp.com/#/) to see the running deploy
 
 1. Install [Meteor](https://www.meteor.com/install)
 2. Download a copy of [The Manoa Swap Shop](https://github.com/manoaswapshop/swapshop_source) from the GitHub page.  The repository is private so you will need to request for access from the authors.
-3. Open up a terminal on your operating system and cd into the app directory of digits.  Run the command:
+3. Open up a terminal on your operating system and cd into the app directory of manoaswapshop.  Run the command:
 `$ meteor npm install`
 4. Once you have installed the libraries, run the command:
 `$ meteor npm run start`
