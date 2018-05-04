@@ -105,7 +105,7 @@ Click [here](https://github.com/manoaswapshop/swapshop_source/projects/3) to see
 
 # Initial User Study
 
-We recruited other college students to provide feedback on our almost completed app to find out things that they enjoyed and things that we could improve upon. The process of getting this feedback started with us giving a quick walthrough of how to use all of the features in our app and then allowing them some time to play around with it and explore it for themselves. After they had a good amount of time using our app we, we asked them about their thoughts and how we can make the Manoa Swap Shop a better experience for users. 
+We recruited other college students to provide feedback on our almost completed app to find out things that they enjoyed and things that we could improve upon. The process of getting this feedback started with us giving a quick walkthrough of how to use all of the features in our app and then allowing them some time to play around with it and explore it for themselves. After they had a good amount of time using our app we, we asked them about their thoughts and how we can make the Manoa Swap Shop a better experience for users. 
 
 Constructive Criticism: - Add a search bar and filters
 - Add messaging system for users
