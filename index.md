@@ -137,11 +137,14 @@ We recruited other college students to provide feedback on our almost completed 
 
 Constructive Criticism: 
 - Add a search bar and filters
+- Allow users to sort items by categories within one page
 - Add messaging system for users
 - More streamlined image uploading process
+- Make important features and links easier to see, such as the 'help' & 'categories' section.
 
 Things they liked: 
 - Aesthetically pleasing, theme matched with Manoa(school colors)
 - Customizable profiles
 - All available items are listed
+
 
