@@ -22,7 +22,9 @@ Click [here](http://themanoaswapshop.meteorapp.com/#/) to see the running deploy
 2. Download a copy of [The Manoa Swap Shop](https://github.com/manoaswapshop/swapshop_source) from the GitHub page.  The repository is private so you will need to request for access from the authors.
 3. Open up a terminal on your operating system and cd into the app directory of manoaswapshop.  Run the command:
 `$ meteor npm install`
-4. Once you have installed the libraries, run the command:
+4. While you are in the terminal and in the app directory of manoaswapshop, run the command:
+`$ npm install --save react-dropzone`
+5. Once you have installed the libraries, run the command:
 `$ meteor npm run start`
 
 
@@ -104,15 +106,42 @@ Click [here](https://github.com/manoaswapshop/swapshop_source/projects/3) to see
 * Image uploading
 * Item delete feature for sellers
 
+1. An image uploading feature has been added to the profile creation page that will allow users to upload a user profile image.
+![.](images/M3ProfileCreationImageUploading.png)
+
+Uploading works by clicking on the box with a description of how to use it and then select a image file from your local device. The image url will fill out the image textfield once your image has been uploaded. Make sure to make some sort of button input into the text field to ensure that it registers properly.
+![.](images/M3ImageUploading2.png)
+
+2. The user profile image can be edited in the edit profile page.
+![.](images/M3EditProfileImageUploading.png)
+
+3. An item deletion button has been added to allow users to delete their listings after they have sold.
+![.](images/M3ItemDeleteButton.png)
+
+4. Image uploading has been added to the List Item page.
+![.](images/M3ItemImageUploading.png)
+
+5. The items listing page now contains links for evey item that leads to a more detailed item card page.
+![.](images/M3ItemListWithLink.png)
+
+The item card page contains some additional information about each item and includes the picture that is uploaded during the creation of the listing.
+![.](images/M3ItemCard.png)
+
+
+
+
+
 # Initial User Study
 
 We recruited other college students to provide feedback on our almost completed app to find out things that they enjoyed and things that we could improve upon. The process of getting this feedback started with us giving a quick walkthrough of how to use all of the features in our app and then allowing them some time to play around with it and explore it for themselves. After they had a good amount of time using our app we, we asked them about their thoughts and how we can make the Manoa Swap Shop a better experience for users. 
 
-Constructive Criticism: - Add a search bar and filters
+Constructive Criticism: 
+- Add a search bar and filters
 - Add messaging system for users
 - More streamlined image uploading process
 
-Things they liked: - Aesthetically pleasing, theme matched with Manoa(school colors)
+Things they liked: 
+- Aesthetically pleasing, theme matched with Manoa(school colors)
 - Customizable profiles
 - All available items are listed
 
